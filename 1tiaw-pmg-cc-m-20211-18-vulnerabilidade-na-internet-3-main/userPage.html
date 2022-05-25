@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>WHIP - Página Usuário</title>
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Catamaran:100,200,300,400,500,600,700,800,900">
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i">
+    <link rel="stylesheet" href="assets/fonts/ionicons.min.css">
+    <link rel="stylesheet" href="assets/css/Contact-Form-Clean.css">
+    <link rel="stylesheet" href="assets/css/Footer-Basic.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
+    <link rel="stylesheet" href="assets/css/Login-Form-Clean.css">
+    <link rel="stylesheet" href="assets/css/Login-Form-Dark.css">
+    <link rel="stylesheet" href="assets/css/Newsletter-Subscription-Form.css">
+    <link rel="stylesheet" href="assets/css/untitled.css">
+</head>
+
+<body>
+    <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+    <df-messenger
+        chat-icon="https:&#x2F;&#x2F;thumbs.dreamstime.com&#x2F;b&#x2F;vetor-liso-criativo-do-avatar-das-crian%C3%A7as-do-logotipo-abstrato-da-letra-de-w-do-divertimento-84901158.jpg"
+        intent="WELCOME"
+        chat-title="Duvidas"
+        agent-id="d663df70-5c59-4bb1-a0a7-f4764ac85a00"
+        language-code="pt-br"
+    ></df-messenger>
+    <nav class="navbar navbar-dark navbar-expand-lg bg-dark navbar-custom"
+        style="border-color: #212529;background: #343a40;">
+        <div class="container"><a class="navbar-brand" href="index.html">WHIP</a><button data-toggle="collapse"
+                class="navbar-toggler" data-target="#navbarResponsive-1"><span
+                    class="navbar-toggler-icon"></span></button>
+            <div class="collapse navbar-collapse" id="navbarResponsive-1">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item"></li>
+                </ul>
+            </div>
+            <nav class="navbar navbar-dark navbar-expand-lg fixed-top bg-dark navbar-custom" style="color: #212529;">
+                <div class="container"><a class="navbar-brand" href="index.html">WHIP</a><button data-toggle="collapse"
+                        class="navbar-toggler" data-target="#navbarResponsive"><span
+                            class="navbar-toggler-icon"></span></button>
+                    <div class="collapse navbar-collapse" id="navbarResponsive">
+                        <ul class="navbar-nav ml-auto">
+                            <li class="nav-item"></li>
+                            <li class="nav-item"></li>
+                            <li class="nav-item"></li>
+                            <li class="nav-item"><a class="btn btn-primary btn-block" href="atualizacao_cad.html">Atualizacao Cadastral</a></li>
+                            <li class="nav-item"><a class="nav-link">  </a></li>
+                            <li class="nav-item"><a class="btn btn-primary btn-block" href="assinar.html">Assinar</a></li>
+                            <li class="nav-item"><a class="nav-link">  </a></li>
+                            <li class="nav-item"><a class="btn btn-primary btn-block" href="login.html">Logout</a></li>
+                            <li class="nav-item"></li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </nav>
+    <section></section>
+    <section></section>
+    <section style="background: #343a40;">
+        <div class="container">
+            <div class="row">
+                <div class="col">
+                    <div class="table-responsive">
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th style="color: rgb(249,252,255);">Sites</th>
+                                    <th style="color: rgb(249,252,255);">Usuário</th>
+                                    <th style="color: rgb(249,252,255);">Senha</th>                                    
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td style="color: rgb(255,255,255);" id= "tela"></td>
+                                    <td style="color: #ffffff;" id= "tela1"></td>
+                                    <td style="color: #ffffff;" id= "tela2"></td>
+                                </tr>
+                                
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        <section class="login-clean" style="background: #343a40;">
+                <section class="login-dark" style="background: #343a40;border-color: #343a40;height: 300px;">
+                    <form method="post">
+                        <div class="form-group"><input id="bdsite" class="form-control" type="site" name="site" placeholder="SITE"/>
+                        </div>
+                        <div class="form-group"><input id="bduser" type="text" class="form-control" name="usuario"
+                                placeholder="USUARIO" /></div>
+                        <div class="form-group"><input id="bdsenha" type="text" class="form-control" name="senha"
+                                placeholder="SENHA" /></div>
+                        <a class=" btn btn-primary btn-block" id="bdbsalvar" role="button">Salvar</a>
+                        <a class=" btn btn-primary btn-block" id="bdbutton" role="button">Ver dados</a>
+                    </form>
+                </section>
+            </section>
+            <section class="login-clean" style="background: #343a40;">
+                <section class="login-dark" style="background: #343a40;border-color: #343a40;height: 150px;">
+                    <form method="post">
+                        <div class="form-group" style="text-align:center; color:#bdc1c5 " >Teste a sua senha</div>
+                        <div class="form-group"><input id="testsenha" type="text" class="form-control" name="senha"
+                                placeholder="SENHA" /></div>
+                        <a class=" btn btn-primary btn-block" id="btttest" role="button">Teste sua senha</a>
+                    </form>
+                </section>
+            </section>
+        </div>
+    </section>
+    
+    <footer class="py-5 bg-black">
+        <div class="container">
+            <p class="text-center text-white m-0 small">Copyright&nbsp;© WHIP 2021 - ICEI - PUC Minas</p>
+        </div>
+    </footer>
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="assets/js/bs-init.js"></script>
+    <script src="assets/js/testesenha.js"></script>
+    <script src="assets/js/appdados.js"></script>
+</body>
+
+</html>
