@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>WHIP - Cadastro</title>
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Catamaran:100,200,300,400,500,600,700,800,900">
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i">
+    <link rel="stylesheet" href="assets/fonts/ionicons.min.css">
+    <link rel="stylesheet" href="assets/css/Contact-Form-Clean.css">
+    <link rel="stylesheet" href="assets/css/Footer-Basic.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
+    <link rel="stylesheet" href="assets/css/Login-Form-Clean.css">
+    <link rel="stylesheet" href="assets/css/Login-Form-Dark.css">
+    <link rel="stylesheet" href="assets/css/Newsletter-Subscription-Form.css">
+    <link rel="stylesheet" href="assets/css/untitled.css">
+    <link rel="card_hash" href="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js">
+    
+
+</head>
+
+<body>
+    <nav class="navbar navbar-dark navbar-expand-lg bg-dark navbar-custom"
+    style="border-color: #212529;background: #343a40;">
+    <div class="container"><a class="navbar-brand" href="index.html">WHIP</a><button data-toggle="collapse"
+            class="navbar-toggler" data-target="#navbarResponsive-1"><span
+                class="navbar-toggler-icon"></span></button>
+        <div class="collapse navbar-collapse" id="navbarResponsive-1">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item"></li>
+            </ul>
+        </div>
+        <nav class="navbar navbar-dark navbar-expand-lg fixed-top bg-dark navbar-custom" style="color: #212529;">
+            <div class="container"><a class="navbar-brand" href="index.html">WHIP-ASSINATURA</a><button data-toggle="collapse"
+                    class="navbar-toggler" data-target="#navbarResponsive"><span
+                        class="navbar-toggler-icon"></span></button>
+                <div class="collapse navbar-collapse" id="navbarResponsive">
+                    <ul class="navbar-nav ml-auto">
+                        <li class="nav-item"></li>
+                        <li class="nav-item"></li>
+                        <li class="nav-item"></li>
+                        <li class="nav-item"><a class="btn btn-primary btn-block" href="userPage.html">Minhas senhas</a></li>
+                        <li class="nav-item"><a class="nav-link">  </a></li>
+                        <li class="nav-item"><a class="btn btn-primary btn-block" href="atualizacao_cad.html">Atualizacao Cadastral</a></li>
+                        <li class="nav-item"></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </div>
+</nav>
+    <section></section>
+    <section></section>
+    <section style="background: #343a40;">
+        <div class="container">
+            <section class="login-clean" style="background: #343a40;">
+                <section class="login-clean" style="background: #343a40;">
+                    <section class="login-dark" style="background: #343a40;border-color: #343a40;height: 340px;">
+                        <form method="post">
+                            <div class="form-group" style="text-align:center; color:#bdc1c5 " >PAGAMENTO</div>
+                            <select name="time" class="form-control">
+                                <option value="MENSAL">1 MES - 1,5R$</option>
+                                <option value="TRIMESTRAL">3 MESES - 3,5R$</option>
+                                <option value="ANUAL">1 ANO - 14,99R$</option>
+                                </select>
+                            <input type="text" class="form-control" id="card_number"/>
+                            <div class="form-group" style="text-align:left; color:#bdc1c5  " >NUMERO CARTAO</div>
+                            <input type="text" class="form-control" id="card_holder_name"/>
+                            <div class="form-group" class="form-control" style="text-align:left; color:#bdc1c5  " >Nome (como escrito no cartão)</div>
+                            <input type="text" class="form-control" id="card_expiration_month"/>
+                            <div class="form-group" style="text-align:left; color:#bdc1c5  " >Mês/Ano de expiração</div>
+                            <input type="text" class="form-control" id="card_cvv"/>
+                            <div class="form-group" style="text-align:left; color:#bdc1c5  " >Código de segurança </div>
+                            <div id="field_errors">
+                            <form id="payment_form" action="https://seusite.com.br/transactions/new" method="POST">
+                            <input class=" btn btn-primary btn-block" type="submit"></input>  
+                        </form>
+                    </section>
+                </section>
+            </section>
+            
+        </div>
+    </section>
+    <footer class="py-5 bg-black">
+        <div class="container">
+            <p class="text-center text-white m-0 small">Copyright&nbsp;© WHIP 2021 - ICEI - PUC Minas</p>
+        </div>
+    </footer>
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/bs-init.js"></script>
+    <script src=“https://assets.pagar.me/pagarme-js/4.5/pagarme.min.js” ></script>
+</body>
+
+</html>

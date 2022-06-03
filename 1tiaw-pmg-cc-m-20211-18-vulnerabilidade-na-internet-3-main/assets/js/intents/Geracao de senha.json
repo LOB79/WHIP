@@ -1,0 +1,35 @@
+{
+  "id": "bfe6eb05-5440-426b-a431-eae873be3179",
+  "name": "Geracao de senha",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "As sua senha e única criada através se uma randomização dos dados fornecidos para nos , assim podemos criar uma senha que atende requisitos de segurança, que não seja obvia; mas que seja intuitiva e que de para lembrar"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

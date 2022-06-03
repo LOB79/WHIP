@@ -1,0 +1,102 @@
+[
+  {
+    "id": "c18ba36e-c962-4ccf-8792-f1296a7abc65",
+    "data": [
+      {
+        "text": "para",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " quem e destinado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0848b780-5ede-499c-b4a3-a3426f608a3b",
+    "data": [
+      {
+        "text": "objetivo ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " projeto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8da0c43e-d722-4bb9-bbc4-d15f762ca8b9",
+    "data": [
+      {
+        "text": "para",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " que serve o site",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "00a60338-a1f0-436a-91ff-bac46f768dea",
+    "data": [
+      {
+        "text": "site",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "74196a25-61ec-4565-907b-1e0842c78d3b",
+    "data": [
+      {
+        "text": "qual a função",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "96b03c1a-5384-4ef2-984e-f7eefcb28544",
+    "data": [
+      {
+        "text": "Projeto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

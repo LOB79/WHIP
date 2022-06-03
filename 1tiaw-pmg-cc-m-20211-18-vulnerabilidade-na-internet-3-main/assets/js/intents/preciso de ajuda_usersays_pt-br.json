@@ -1,0 +1,51 @@
+[
+  {
+    "id": "57d7e217-69b7-4d33-aae3-c68ad30abaf0",
+    "data": [
+      {
+        "text": "preciso de ajuda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e6ea7241-2399-4efd-b0c3-82002f9a876a",
+    "data": [
+      {
+        "text": "Tenho ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " duvida",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "45b010b5-df8f-4733-8b18-cd8e36614c68",
+    "data": [
+      {
+        "text": "duvida",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "id": "8bb5a867-6524-4639-abf7-0c1ecc16fc1b",
+    "data": [
+      {
+        "text": "site e seguro",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ba92ccf9-3dfc-47b3-95e8-c918a9648823",
+    "data": [
+      {
+        "text": "segurança",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d1e2935c-c02d-4131-ad04-beb4fbcb7920",
+    "data": [
+      {
+        "text": "Seguranca",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

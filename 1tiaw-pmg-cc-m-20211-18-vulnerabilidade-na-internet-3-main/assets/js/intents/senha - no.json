@@ -1,0 +1,39 @@
+{
+  "id": "2a1c6627-aadb-49b5-8e09-adbea5754c8f",
+  "parentId": "6ca159e5-c086-4cfd-90b1-cd49b641ebca",
+  "rootParentId": "6ca159e5-c086-4cfd-90b1-cd49b641ebca",
+  "name": "senha - no",
+  "auto": true,
+  "contexts": [
+    "senha-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "senha.senha-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "em qual desses campos podemos lhe ajudar:\nSegurança\nGeração de senha\nprojeto"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,70 @@
+[
+  {
+    "id": "3d1e6908-12e6-4442-a194-a52a7d6cabca",
+    "data": [
+      {
+        "text": "tenha ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " boa ",
+        "userDefined": false
+      },
+      {
+        "text": "tarde",
+        "meta": "@sys.time-period",
+        "alias": "time-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3ecddaf2-324e-4275-af95-6d3356ff8a3c",
+    "data": [
+      {
+        "text": "obrigada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "79bb6b7b-3b6e-4fcd-b6cf-32326d447503",
+    "data": [
+      {
+        "text": "obrigado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6d845959-e54d-4a35-be62-f594e59bb4ee",
+    "data": [
+      {
+        "text": "OBG",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

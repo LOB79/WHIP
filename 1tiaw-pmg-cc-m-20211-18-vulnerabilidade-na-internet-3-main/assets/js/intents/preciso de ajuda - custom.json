@@ -1,0 +1,36 @@
+{
+  "id": "ad4ea5e4-34d0-43c3-945a-e0248023e978",
+  "parentId": "6d83116a-e568-4758-94e0-64f2c2dad078",
+  "rootParentId": "6d83116a-e568-4758-94e0-64f2c2dad078",
+  "name": "preciso de ajuda - custom",
+  "auto": true,
+  "contexts": [
+    "precisodeajuda-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "precisodeajuda.precisodeajuda-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

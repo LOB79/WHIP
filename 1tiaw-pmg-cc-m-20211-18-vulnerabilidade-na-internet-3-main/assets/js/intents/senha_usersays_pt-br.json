@@ -1,0 +1,69 @@
+[
+  {
+    "id": "1db3d153-bf69-484c-9673-36057834afb9",
+    "data": [
+      {
+        "text": "senha",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4a391d4c-c91d-407d-ba01-59abe456e385",
+    "data": [
+      {
+        "text": "erro no usuario",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "846be26c-c7e7-4cdd-b6a8-4214b392004a",
+    "data": [
+      {
+        "text": "nao consigo entar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "cd80b86d-b4eb-4529-8e3b-16df88eaeb99",
+    "data": [
+      {
+        "text": "Esqueci minha senha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "095ca0fa-e04e-4e1d-8eeb-d12028d24c1b",
+    "data": [
+      {
+        "text": "Login",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

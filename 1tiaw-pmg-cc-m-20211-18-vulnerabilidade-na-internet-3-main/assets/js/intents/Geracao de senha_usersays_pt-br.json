@@ -1,0 +1,54 @@
+[
+  {
+    "id": "08b0c7c9-a49e-4ade-bf60-9245b65d3ee8",
+    "data": [
+      {
+        "text": "gerar senha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3fd8905d-b8be-4586-91fb-a7d5209cf8af",
+    "data": [
+      {
+        "text": "senha geração",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "69652842-10d7-481f-a2ce-8621e3b32483",
+    "data": [
+      {
+        "text": "como e gerada a senha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "06bb8a16-e434-49e6-a336-78d52d5299d9",
+    "data": [
+      {
+        "text": "Geração de senha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "id": "c8dfd3ba-ebfa-4446-a44e-fbb967d25045",
+  "parentId": "6ca159e5-c086-4cfd-90b1-cd49b641ebca",
+  "rootParentId": "6ca159e5-c086-4cfd-90b1-cd49b641ebca",
+  "name": "senha - yes",
+  "auto": true,
+  "contexts": [
+    "senha-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "senha.senha-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Ainda estamos implementando o esqueci minha senha no site, porem nos mande seu usuário, e confirme o e-mail(no entre em contato conosco), para que possamos lhe enviar um link para alterar sua senha"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

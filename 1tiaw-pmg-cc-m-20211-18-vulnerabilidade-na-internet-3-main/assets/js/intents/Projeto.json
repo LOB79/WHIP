@@ -1,0 +1,74 @@
+{
+  "id": "635455f9-126a-4eee-8560-49fc70bae084",
+  "name": "Projeto",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b1ba5280-213e-4913-b923-c02b5d5024e4",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "1c8d674f-3d43-499f-a875-c72cfb1b9179",
+          "name": "color",
+          "required": false,
+          "dataType": "@sys.color",
+          "value": "$color",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "O projeto WHIX e um projeto que visa aumentar a sua segurança de uma forma diferente do convencional, onde o usuário terá senhas geradas para o mesmo com coisas da sua vida"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Os dados pessoais serão tratados e utilizados para facilitar a geração de uma senha segura e  lembravel, para pessoas com dificuldades em uso da tecnologia, criando um ambiente mais acessível e seguro com senhas intuitivas e fortes"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
